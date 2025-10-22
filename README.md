@@ -1,4 +1,4 @@
-# 🚀 React — Laravel Web Development Banner
+#  React — Laravel Web Development Banner
 
 A modern, responsive **banner section** built using **React (Vite)** and pure CSS.  
 This design is inspired by a professional Figma layout — featuring a left content section and a right-side consultation form.
